@@ -3,7 +3,9 @@
 # AUTHOR TAHARDJEBBAR Abdellah seddik
 # Mail : Abdellahseddikpro@gmail.com 
 
-''' This a free software that is use to brute-force a target(the target must be on your local network )if he is using an IP-based ACL That allow a single host with a pre  defined  IP address to connect to the target, principle is is the host machine (attacker) keep changing the IP address of his machine then send an http request to the target '''
+''' This a free software that is use to brute-force a target(the target must be on your local network )if he is using an IP-based 
+ACL That allow a single host with a pre  defined  IP address to connect to the target, principle is is the host machine (attacker)
+keep changing the IP address of his machine then send an http request to the target '''
 
 import os, sys, httplib , time 
 interface = str(sys.argv[1])
