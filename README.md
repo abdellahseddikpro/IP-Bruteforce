@@ -6,3 +6,6 @@ keep changing the IP address of his machine then send an http request to the tar
 HOW TO USE :
 
 IP-Bruteforce.py  "interface"  "url"
+Exemple :
+IP-Bruteforce.py eth0 192.168.1.1/index.html
+IP-Bruteforce.py wlan0 192.168.3.254/www/index.php
