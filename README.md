@@ -5,4 +5,4 @@ keep changing the IP address of his machine then send an http request to the tar
 
 HOW TO USE :
 
-IP-Bruteforce.py  <interface> <host/url>
+IP-Bruteforce.py  interface  host/url
